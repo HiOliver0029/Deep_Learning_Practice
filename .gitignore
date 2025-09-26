@@ -1,0 +1,13 @@
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+temp_*
+*.log
+
+mc_output/
+qa_output/
+*.safetensors
